@@ -84,7 +84,7 @@ p{
 }
 
 
-@media (max-width: 300px){
+@media (max-width: 600px){
 	
 	.board{
 		width: 400px;
