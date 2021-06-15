@@ -84,11 +84,15 @@ p{
 }
 
 
-@media (orientation: portrait){
+@media (max-width: 600px){
 	
 	.board{
-		width: 400px;
+		width: 500px;
 	}
+    .card{
+        width: 125px;
+        height: 125px;}
+
 }
 
 /* Adrian Majcher */
