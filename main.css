@@ -85,7 +85,7 @@ p{
 
 @media (max-width: 500px){
 	h1{
-		color: red;
+		/* color: red; */
 	}
 	.board{
 		width: 500px;
