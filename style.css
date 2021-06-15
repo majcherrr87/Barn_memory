@@ -83,14 +83,15 @@ p{
     cursor: pointer;
 }
 
+
 @media (max-width: 500px){
-	h1{
-		/* color: red; */
-	}
+	
 	.board{
 		width: 500px;
 	}
 }
+
+/* Adrian Majcher */
 
 
 
