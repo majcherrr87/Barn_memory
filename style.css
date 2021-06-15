@@ -84,7 +84,7 @@ p{
 }
 
 
-@media (max-width: 600px){
+@media (orientation: portrait){
 	
 	.board{
 		width: 400px;
